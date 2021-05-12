@@ -1,5 +1,6 @@
 body {
     margin: 0px;
+   
 }
 header {
     border: 0.5px solid gray;
@@ -63,6 +64,7 @@ section.one {
     width: 19cm;
     display: inline-block;
     float: left;
+   
 }
 
     
@@ -165,6 +167,42 @@ img.sekil1, img.sekil2 {
 img.sekil5 {
     margin-top: 47.5px;
 }
+div.yazi1, div.yazi2, div.yazi3, div.yazi4, div.yazi5 {
+    border: 0px solid;
+    color: white;
+    background-color: teal;
+    display: inline-block;
+    width: 8.3cm;
+    height: 0.85cm;
+    text-align: center;
+    padding-top: 14px;
+    font-size: large;
+}
+div.yazi1 {
+    position: absolute;
+    bottom: 9.9cm;
+    left: 6.9cm;
+}
+div.yazi2 {
+    position: absolute;
+    bottom: 9.9cm;
+    left: 16.58cm;
+}
+div.yazi3 {
+    position: absolute;
+    left: 6.9cm;
+    bottom: 3.58cm;
+}
+div.yazi4 {
+    position: absolute;
+    bottom: 3.58cm;
+    left: 16.58cm;
+}
+div.yazi5 {
+    position: absolute;
+    bottom: -2.74cm;
+    left: 6.9cm;
+}
 /* Contact */
 
 section.information {
@@ -204,7 +242,11 @@ input.one, input.two {
 input.three {
     height: 3.5cm;
 }
-
+input.teqdim {
+    margin-top: 10px;
+    background-color: rgb(39, 183, 219);
+    color: whitesmoke;
+}
 
 
 
