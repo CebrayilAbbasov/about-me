@@ -2,7 +2,7 @@ body {
     margin: 0px;
 }
 header {
-    border: 1px solid gray;
+    border: 0.5px solid gray;
    margin: 0px 0px 20px 0px;
    
 } 
@@ -64,6 +64,7 @@ section.one {
     display: inline-block;
     float: left;
 }
+
     
    h2.about {
        border: 0px solid;
